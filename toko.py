@@ -167,7 +167,7 @@ def sync():
             print("Data " +str(idx)+ " telah tersinkronisasi")
 
 
-sync()
+# sync()
 
 # delete_cache()
 
